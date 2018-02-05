@@ -6,7 +6,7 @@ email: 764454663@qq.com
 description: "learn more"
 keyword: "Jc,Jc的博客, Jc Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
 url: "https://codejc.github.io/jcblog/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://codejc.github.io/jcblog/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
