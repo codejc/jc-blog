@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jc Blog</title>
+    <description>learn more</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 05 Feb 2018 14:19:31 +0800</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2018 14:19:31 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>新的开始</title>
+        <description>&lt;p&gt;之前用Vue的练手项目来存放学习记录，现在发现还是用GitHub Page来维护比较方便（省钱）。所以用jekyll搭建了一个静态博客，来存放接下来学习过程中遇到的问题。&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Feb 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/02/05/start/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/05/start/</guid>
+        
+        <category>前端开发</category>
+        
+        <category>JavaScript</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
